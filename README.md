@@ -385,7 +385,42 @@ Business Insights
 <p>
 <strong>Excel Workbook:</strong> <code>cafe_sales_cleaned.xlsx</code>
 </p>
+<h2>📸 EDA Analysis Screenshots</h2>
 
+<p>
+The following screenshots show the Excel-based Exploratory Data Analysis,
+statistical calculations, visualizations, and final insights developed for this project.
+</p>
+
+<h3>📊 EDA Analysis – Part 1</h3>
+
+<p align="center">
+  <img src="SWYNEX EDA Analysis1.png" alt="SWYNEX EDA Analysis 1" width="900">
+</p>
+
+<h3>📊 EDA Analysis – Part 2</h3>
+
+<p align="center">
+  <img src="SWYNEX EDA Analysis2.png" alt="SWYNEX EDA Analysis 2" width="900">
+</p>
+
+<h3>📊 EDA Analysis – Part 3</h3>
+
+<p align="center">
+  <img src="SWYNEX EDA Analysis3.png" alt="SWYNEX EDA Analysis 3" width="900">
+</p>
+
+<h3>📐 Statistical Calculations</h3>
+
+<p align="center">
+  <img src="SWYNEX EDA Calculations.png" alt="SWYNEX EDA Calculations" width="900">
+</p>
+
+<h3>💡 Final Insights</h3>
+
+<p align="center">
+  <img src="SWYNEX EDA Insights.png" alt="SWYNEX EDA Insights" width="900">
+</p>
 <h2>🏁 Conclusion</h2>
 
 <p>
